@@ -1,0 +1,17 @@
+16
+books1995.csv.txt
+books1996.csv.txt
+books1997.csv.txt
+books1998.csv.txt
+books1999.csv.txt
+books2000.csv.txt
+books2001.csv.txt
+books2002.csv.txt
+books2003.csv.txt
+books2004.csv.txt
+books2005.csv.txt
+books2006.csv.txt
+books2007.csv.txt
+books2008.csv.txt
+books2009.csv.txt
+books2010.csv.txt

@@ -1,0 +1,37 @@
+American Stock Car,William Burt,5.95,0760309779,TPA,2005
+Big Tractors - 100 Years of High-Powered Farm Machinery,Robert Pripps & Andrew Morland,16.95,0873497317,TPA,2005
+BMW Motorcycles - The Ultimate Riding Machines,Kevin Ash,9.95,1842222732,TPA,2005
+Cadillac Century,John Heilig,7.95,0785809171,TPA,2005
+Car - A History of the Automobile,Jonathan Glancey,12.95,1842229427,TPA,2005
+Cars,Leah Bendavid-Val,4.95,0792261690,TPA,2005
+Corvette,Mike Mueller,7.95,0760313865,TPA,2005
+"Ford Muscle - Street, Stock, and Strip",Bill Holder & Phil Kunz,19.95,0873498356,TPA,2005
+Harley-Davidson,Allan Girdler & Jeff Hackett,6.95,0760313741,TPA,2005
+Harley-Davidson,John Tipler,9.95,1571457836,TPA,2005
+Harley-Davidson - 100 Years of Harley-Davidson Advertising,Thomas C. Bolfert,5.95,0821228293,TPA,2005
+"Harley-Davidson - Standard Catalog of Harley-Davidson Motorcycles, 1903-2003",Doug Mitchel,19.95,0873497368,TPA,2005
+Harley-Davidson - Ultimate Harley-Davidson,Mac McDiarmid,19.95,1843091690,TPA,2005
+Lowriders,Robert Genat,4.95,0760318328,TPA,2005
+Mustang,David Newhardt,4.95,076031389X,TPA,2005
+Porsche - The Ultimate Guide,Scott Faragher,19.95,0873497201,TPA,2005
+Retro Ride,Tony Swan,14.95,188805462X,TPA,2005
+Sport Compacts,Alan Paradise,4.95,0760318336,TPA,2005
+Sports Car Classics,Lain Ayre,5.95,1859676561,TPA,2005
+Sports Car Icons,John Heilig & Dennis Adler & Randy Leffingwell,5.95,0760317771,TPA,2005
+"Standard Catalog of Camaro, 1967-2002",John Gunnell,19.95,0873494954,TPA,2005
+"Standard Catalog of Corvette, 1953-2005 (2nd Edition)",John Gunnell,19.95,0873499077,TPA,2005
+"Standard Catalog of GTO, 1961-2004",John Gunnell,19.95,0873496892,TPA,2005
+"Standard Catalog of Pontiac, 1926-2002 (2nd Edition)",John Gunnell,16.95,0873492633,TPA,2005
+Vintage Volkswagens,Flat 4 Project,7.95,0811825450,TPA,2005
+Viper,Matt Stone,6.95,0760316988,TPA,2005
+VW Beetle,Ryan Lee Price,8.95,1557884218,TPA,2005
+Corvette - Definitive Guide To The All-American Sports Car,Andrew Montgomery,14.95,159223061X,TPA,2006
+Ferrari,Hartmut Lehbrink & Rainer W. Schlegelmilch,19.95,3895080764,TPA,2006
+Jaguar - Spirit of the Cat,Paul W. Cockerham,5.95,1577171225,TPA,2006
+Rolls-Royce Motor Car and the Bentley Since 1931,Anthony Bird & Ian Hallows & Brendan James,29.95,0713487496,TPA,2006
+Volkswagen - Beetle Mania or How I Learned to Stop Worrying and Love the Bug: History and Celebration of an Unlikely Icon,Alessandro Pasi,8.95,0312265247,TPA,2006
+2010 Collector Car Price Guide [Includes Bonus DVD],Ron Kowalke,18.95,0896899713,TPA,2009
+Chevrolet Pickups 1973-1998,John Gunnell,19.95,0896896145,TPA,2009
+"Crash! Twisted Steel, Mangled Bumpers & Shattered Windshields From the 40s, 50s & 60s",John Gunnell,9.95,0896894495,TPA,2009
+Indianapolis Motor Speedway - 100 Years Of Racing,Ralph Kramer & Mario Andretti (Foreword) & Tony George (Preface),24.95,0896898350,TPA,2009
+"Legendary Model T Ford, The - The Ultimate History Of America's First Great Automobile",Tom Collins,33.95,0896895602,TPA,2009
